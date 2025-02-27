@@ -292,15 +292,4 @@ print((a*b)//c)
 ![Меню](https://github.com/ANARKI-MOOZ/SoftwareEngineering/blob/Тема_2/pic/sam9.png)
 ## Выводы
 Я научился выполнять арифметические операции с помощью Python.  
-## Самостоятельная работа №10
-### Создайте две строковые переменные. Выполните конкатенацию строк.
 
-```python
-a = 'Алексей '
-b= 'Игоревич'
-print(a+b)
-```
-
-### Результат.
-![Меню](https://github.com/ANARKI-MOOZ/SoftwareEngineering/blob/Тема_2/pic/sam10.png)
-## Выводы
